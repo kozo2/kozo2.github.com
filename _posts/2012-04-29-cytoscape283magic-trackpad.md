@@ -7,13 +7,13 @@ tags: [Cytoscape, Mac]
 ---
 {% include JB/setup %}
 
-Cytoscape2.8.3では今までMacのmagic trackpad環境ではやりにくかったnetworkのpanが
-Commandを押しながらdragすることで可能になったとcore developerの大野さんからtwitter
-で伺い早速ためしてみました。
+Cytoscape2.8.3では今までMacのMagic Trackpad環境ではやりにくかったnetworkのpanが
+「Command keyを押しながらdragすることで可能になった」、とcore developerの大野さんからtwitter
+で伺ったので早速ためしてみました。
 
 ## Cytoscape2.8.3のbuild
 
-Cytoscape2.8.3でないとできない、かつまだdmg fileが配布されていないので自分でbuildします。
+Cytoscape2.8.3でないと機能しない、かつまだdmg fileが配布されていないとのことなので自分でbuildします。
 
 ### repositoryのcheckout
 
